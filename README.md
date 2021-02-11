@@ -5,7 +5,7 @@ _**Translation to Urdu:**_ For Urdu audio narration in OPEN (Open Pakistan Educa
 ## What?
 _**Calling the Translator API from a Console Application:**_ Nothing fancy here; the approach used (see diagram below) entails calling the Translator API using C# code (originally published ![here](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-C-Sharp)) in a Console Application with some minor changes.
 
-![Translate Console App](files/OPEN-TranslateorConsoleApp.png)
+[Translate Console App](files/OPEN-TranslateorConsoleApp.png)
 ## How?
 *The steps assume that you have public access to a Microsoft cloud subscription using the Azure Portal.*
 1. Log into the Azure Portal and create a Translator API subscription (follow steps ![here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup)).
