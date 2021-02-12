@@ -17,11 +17,13 @@ https://github.com/MicrosoftTranslator/Text-Translation-API-V3-C-Sharp
 :ایذور پورٹل میں لاگ ان کریں اور ایک مترجم اے پی آئی سبسکرپشن بنائیں۔ یہاں پر دیے گئے مراحل کی پیروی کریں
 
 https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup
+
 ویزول اسٹوڈیو سی شارپ کنسول ایپ بنانے کے لئے 'کوڈ' فولڈر میں سورس کوڈ ڈاؤن لوڈ کریں۔  
 'app.Config' فائل میں تشکیل کی ترتیبات کی وضاحت کریں۔
 انگریزی سے اردو میں ترجمہ کے لئے اس نمونہ سے ملتی فائل بنائیں۔ 
 
 https://github.com/OpenEdPakistan/speech/blob/main/files/input.txt
+
 کنسول ایپلی کیشن مرتب کریں اور چلائیں۔
 تخلیق شدہ اردو ترجمہ کو ایک ٹیکسٹ ایڈیٹر میں دیکھیں۔ 
 </p>
