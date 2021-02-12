@@ -1,4 +1,6 @@
-اردو میں پڑھیئے:
+<p align="right">
+اردو میں پڑھیئے
+</p>
 <br />
 README-Urdu.md
 <br />
