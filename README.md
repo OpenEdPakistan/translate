@@ -2,7 +2,6 @@
 اردو میں پڑھیئے
 <br />https://github.com/OpenEdPakistan/translate/blob/main/README.md
 </p>
-<br />
 # Using Microsoft Cognitive Services Translator API to translate English text to Urdu
 ## Why?
 _**Translation to Urdu:**_ For Urdu audio narration in OPEN (Open Pakistan Education Network) courses, an Urdu text-to-speech application in used that makes use of text in the Urdu language. To generate this Urdu text, the Microsoft Cognitive Services Translator API is called to translate English text into Urdu first.
