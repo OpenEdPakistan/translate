@@ -6,6 +6,7 @@
 <h2 align="right">کیا؟</h2>
 <p align="right">
 کنسول ایپلیکیشن سے مترجم اے پی آئی کو پکارنا: یہاں کچھ بھی ایسا نہیں جس کی وصیع ساخت ہو۔ استعمال شدہ نقطہ نظر (ذیل میں ملاحظہ کریں) کچھ معمولی تبدیلیوں کے ساتھ کنسول ایپلی کیشن میں سی شارپ کوڈ (اصل میں گٹ حب پر شائع کیا گیا) کا استعمال کرتے ہوئےمترجم اے پی آئی پکارنے پر مشتمل ہے۔ 
+
 https://github.com/MicrosoftTranslator/Text-Translation-API-V3-C-Sharp
 </p>
 <a target="_blank" rel="noopener noreferrer" href="files/OPEN-TranslatorConsoleApp.png"><img src="files/OPEN-TranslatorConsoleApp.png" alt="OPEN Tranlate Console App" style="max-width:100%;"></a>
