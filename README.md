@@ -1,8 +1,7 @@
 <p align="right">
 اردو میں پڑھیئے
+https://github.com/OpenEdPakistan/translate/blob/main/README.md
 </p>
-<br />
-README-Urdu.md
 <br />
 # Using Microsoft Cognitive Services Translator API to translate English text to Urdu
 ## Why?
