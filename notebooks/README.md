@@ -1,4 +1,4 @@
-# Using Microsoft Cognitive Services Translator API to translate English text to Urdu using a Python Notebook
+# Using Microsoft Cognitive Services Translator API to translate English text to Urdu using a Jupyter Notebook
 ## Why?
 _**Translation to Urdu:**_ For Urdu audio narration in OPEN (Open Pakistan Education Network) courses, an Urdu text-to-speech application is used that makes use of text in the Urdu language. To generate this Urdu text, the Microsoft Cognitive Services Translator API is called to translate English text into Urdu first.
 ## What?
