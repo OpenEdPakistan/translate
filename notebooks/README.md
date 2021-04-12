@@ -4,7 +4,7 @@ _**Translation to Urdu:**_ For Urdu audio narration in OPEN (Open Pakistan Educa
 ## What?
 _**Calling the Translator API from a Jupyter Notebook:**_ The approach shown in diagram below entails calling the Translator API using Python code (originally published [here](https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Python/blob/master/Translate.py)) with some minor changes.
 
-![Translate Workflow](files/Translate-Python.png)
+![Translate Workflow](../files/Translate-Python.png)
 ## How?
 *The steps assume that you have public access to a Microsoft cloud subscription using the Azure Portal.*
 1. Log into the Azure Portal and create a Translator API subscription (follow steps [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup)).
