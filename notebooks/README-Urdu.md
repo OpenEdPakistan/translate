@@ -18,14 +18,18 @@ https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Python/blob/maste
 <br />
 <a target="_blank" rel="noopener noreferrer" href="../files/Translate-STD.png"><img src="../files/Translate-STD.png" alt="State Diagram" style="max-width:100%;"></a>
  <br />
-:ایذور پورٹل میں لاگ ان کریں اور ایک مترجم اے پی آئی سبسکرپشن بنائیں۔ یہاں پر دیے گئے مراحل کی پیروی کریں
-<br />
-https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup
-<br />
-ویزول اسٹوڈیو سی شارپ کنسول ایپ بنانے کے لئے 'کوڈ' فولڈر میں سورس کوڈ ڈاؤن لوڈ کریں۔  
-'app.Config' فائل میں تشکیل کی ترتیبات کی وضاحت کریں۔
-انگریزی سے اردو میں ترجمہ کے لئے اس نمونہ سے ملتی فائل بنائیں۔ 
-<br />
-کنسول ایپلی کیشن مرتب کریں اور چلائیں۔
-تخلیق شدہ اردو ترجمہ کو ایک ٹیکسٹ ایڈیٹر میں دیکھیں۔ 
+ مذکورہ شکل میں نشان دہی کیے گئے 3 حصے پروگرام میں عنوانات کے مطابق ہیں۔
+ <br />
+ایزر پورٹل میں لاگ ان کیجئے اور مترجم اے پی آئی تشکیل دیجئے (ذیل میں لنک پر دیے گئے مراحل کی پیروی کیجئے)۔
+ <br />
+ https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup
+  <br />
+'نوٹ بک' فولڈر سے نوٹ بک فائل ڈاؤن لوڈ کیجئے اور اسے جپیٹر یا وژوئل اسٹوڈیو کوڈ میں دیکھئے۔ (ذیل کے دو مضامین پڑھیے)
+کوڈ فائل میں تشکیل کردہ اے پی آئی کی سبسکرپشن شناخت کی وضاحت کیجئے۔
+ <br />
+پائتھن کوڈ فائل امیں انگریزی کے بیانات JSON میں بیان کیجئے۔
+اردو عبارت کو یونیکوڈ عنٹیٹیز کی حیثیت سے دیکھنے کیلئے نوٹ بک کے ہر سیل کو چلائیں۔
+ <br />
+ذیل میں لنک پر دوسرا ٹیکسٹ ایریا استعمال کیجئے اور عنٹیٹیز کو تبدیل کرکے پیدا شدہ اردو ترجمہ دیکھیے۔
+ https://www.online-toolz.com/tools/text-unicode-entities-convertor.php
 </p>
