@@ -16,6 +16,8 @@ https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Python/blob/maste
 <p align="right">
 ذیلی اقدامات یہ فرض کرتے ہیں کہ ایزر پورٹل کا استعمال کرتے ہوئے آپ کو مائیکروسافٹ کلاؤڈ کی ایک عدد عوامی سبسکرپشن تک رسائی حاصل ہے۔ مندرجہ ذیل حالتی شکل ایک اعلی سطح پر عمل کو ظاہر کرتی ہے۔
 <br />
+<a target="_blank" rel="noopener noreferrer" href="../files/Translate-STD.png"><img src="../files/Translate-STD.png" alt="State Diagram" style="max-width:100%;"></a>
+ <br />
 :ایذور پورٹل میں لاگ ان کریں اور ایک مترجم اے پی آئی سبسکرپشن بنائیں۔ یہاں پر دیے گئے مراحل کی پیروی کریں
 <br />
 https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup
