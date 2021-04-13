@@ -31,5 +31,7 @@ https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Python/blob/maste
 اردو عبارت کو یونیکوڈ عنٹیٹیز کی حیثیت سے دیکھنے کیلئے نوٹ بک کے ہر سیل کو چلائیں۔
  <br />
 ذیل میں لنک پر دوسرا ٹیکسٹ ایریا استعمال کیجئے اور عنٹیٹیز کو تبدیل کرکے پیدا شدہ اردو ترجمہ دیکھیے۔
+ <br />
  https://www.online-toolz.com/tools/text-unicode-entities-convertor.php
+ <br />
 </p>
