@@ -10,9 +10,11 @@ _**Calling the Translator API from a Jupyter Notebook:**_ The approach shown in 
 
 ![State Diagram](../files/Translate-STD.png)
 
+*The 3 parts marked in the above diagram coincide with the headings in the program .*
+
 1. Log into the Azure Portal and create a Translator API subscription (follow steps [here](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-how-to-signup)).
-1. Download the source code in the _'code'_ folder to create a Visual Studio C# Console App.
-1. Specify configruation settings in the _'App.Config'_ file.
-1. Create a sample Engish file for translation similar to [here](https://github.com/OpenEdPakistan/speech/blob/main/files/input.txt).
-1. Compile and run the console application.
-1. View the generated Urdu translation (specified using the _'OutputFile'_ setting) in a text editor.
+1. Download the Python notebook file (with the .ipynb extension) from the _'notebooks'_ folder and open it Jupyter (IPython) or Visual Studio Code. (Read the 2 articles [here](https://code.visualstudio.com/docs/python/jupyter-support) and [here](https://medium.com/@udiyosovzon/how-to-activate-conda-environment-in-vs-code-ce599497f20d))
+1. Specify subscription key for the created API in the code file.
+1. Specify one or more statements in Engish in JSON the Python code file.
+1. Run each cell of the notebook to view the tranlated text as Unicode entities.
+1. View the generated Urdu translation by converting the entities using the second text-area [here](https://www.online-toolz.com/tools/text-unicode-entities-convertor.php).
