@@ -36,7 +36,7 @@ https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Python/blob/maste
  <br />
 </p>
 <h3 align="right">کوڈ</h3>
-<h4 align="right">ایزر پورٹل سے سبسکرپشن شناخت حاصل کیجئے</h4>
+<h4 align="right">١۔ ایزر پورٹل سے سبسکرپشن شناخت حاصل کیجئے</h4>
 <pre>
 import os, requests, uuid, json
 
@@ -53,14 +53,14 @@ headers = {
 }
 </pre>
 <br />
-<h4 align="right">ترجمہ اے پی آئی کال کیجئے</h4>
+<h4 align="right">٢۔ ترجمہ اے پی آئی کال کیجئے</h4>
 <pre>
 body = [{ 'text' : 'Welcome to Open Pakistan Education Network.' }, { 'text' : 'Learn something new or update your existing knowledge.' }, { 'text' : 'All content is available in Urdu and English.' }]
 request = requests.post(constructed_url, headers=headers, json=body)
 response = request.json()
 </pre>
 <br />
-<h4 align="right">صارف کو دکھانے کے لیے اے پی آئی کے نتائج کی اشاعت کیجئے</h4>
+<h4 align="right">٣۔ صارف کو دکھانے کے لیے اے پی آئی کے نتائج کی اشاعت کیجئے</h4>
 <pre>
 print(json.dumps(response, sort_keys=True, indent=4, separators=(',', ': ')))
 </pre>
