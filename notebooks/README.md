@@ -21,7 +21,7 @@ _**Calling the Translator API from a Jupyter Notebook:**_ The approach shown in 
 1. Run each cell of the notebook to view the tranlated text as Unicode entities.
 1. View the generated Urdu translation by converting the entities using the second text-area [here](https://www.online-toolz.com/tools/text-unicode-entities-convertor.php).
 
-### Jupyter Code
+### Jupyter Code (Python)
 #### 1. Subscripton Key from Azure Portal
 ```
 import os, requests, uuid, json
