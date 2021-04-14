@@ -20,3 +20,33 @@ _**Calling the Translator API from a Jupyter Notebook:**_ The approach shown in 
 1. Specify one or more statements in Engish in JSON the Python code file.
 1. Run each cell of the notebook to view the tranlated text as Unicode entities.
 1. View the generated Urdu translation by converting the entities using the second text-area [here](https://www.online-toolz.com/tools/text-unicode-entities-convertor.php).
+
+### Jupyter Code
+#### 1. Subscripton Key from Azure Portal
+```
+import os, requests, uuid, json
+
+subscription_key = '[Insert Key here]'
+endpoint = 'https://api.cognitive.microsofttranslator.com/translate?api-version=3.0'
+params = '&from=en&to=ur'
+constructed_url = endpoint + params
+
+headers = {
+    'Ocp-Apim-Subscription-Key': subscription_key,
+    'Ocp-Apim-Subscription-Region' : 'southcentralus',
+    'Content-type': 'application/json',
+    'X-ClientTraceId': str(uuid.uuid4())
+}
+```
+
+#### 2. Call the Translate API
+```
+body = [{ 'text' : 'Welcome to Open Pakistan Education Network.' }, { 'text' : 'Learn something new or update your existing knowledge.' }, { 'text' : 'All content is available in Urdu and English.' }]
+request = requests.post(constructed_url, headers=headers, json=body)
+response = request.json()
+```
+
+#### 3. Serialize output from API and display to user
+```
+print(json.dumps(response, sort_keys=True, indent=4, separators=(',', ': ')))
+```
