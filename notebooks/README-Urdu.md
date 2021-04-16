@@ -35,7 +35,7 @@ https://github.com/MicrosoftTranslator/Text-Translation-API-V3-Python/blob/maste
  https://www.online-toolz.com/tools/text-unicode-entities-convertor.php
  <br />
 </p>
-<h3 align="right">کوڈ</h3>
+<h3 align="right">جپٹر کوڈ (پائتھن)</h3>
 <h4 align="right">١۔ ایزر پورٹل سے سبسکرپشن شناخت حاصل کیجئے</h4>
 <pre>
 import os, requests, uuid, json
