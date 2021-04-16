@@ -52,6 +52,7 @@ headers = {
     'X-ClientTraceId': str(uuid.uuid4())
 }
 </pre>
+<span align="right">مذکورہ کوڈ کے ہیڈر سیکشن میں استعمال ہونے والا ایزر کا علاقہ 'ساؤتھ سنٹریل یوس' ہے۔ اپنے کوڈ میں استعمال کرنے کے لئے اپنے علاقے میں تبدیل کیجئے۔</span>
 <br />
 <h4 align="right">٢۔ ترجمہ اے پی آئی کال کیجئے</h4>
 <pre>
@@ -65,3 +66,4 @@ response = request.json()
 print(json.dumps(response, sort_keys=True, indent=4, separators=(',', ': ')))
 </pre>
 <br />
+<span align="right">اگر آپ صرف اردو عبارت کو دکھانا چاہتے ہیں تو اپنی نوٹ بک میں مندرجہ ذیل اپائتھن کوڈ استعمال کیجئے</span>
