@@ -52,7 +52,7 @@ response = request.json()
 print(json.dumps(response, sort_keys=True, indent=4, separators=(',', ': ')))
 ```
 
-If you want to displat the Urdu text only, use the following Python code in your notebook:
+If you want to display the Urdu text only, use the following Python code in your notebook:
 ```
 for item in response:
    print(item["translations"][0]["text"])
