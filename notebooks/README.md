@@ -38,7 +38,7 @@ headers = {
     'X-ClientTraceId': str(uuid.uuid4())
 }
 ```
-_**The Azure region used in the headers section of the above code is 'southcentralus'. Change to your region to use in your code:**_
+_**The Azure region used in the headers section of the above code is 'southcentralus'. Change to your region to use in your code.**_
 
 #### 2. Call the Translate API
 ```
